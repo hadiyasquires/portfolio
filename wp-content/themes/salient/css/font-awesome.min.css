@@ -1,11 +1,11 @@
 
 @font-face{
 	font-family:'FontAwesome';
-	src:url('fonts/fontawesome-webfont.eot?v=4.2');
-	src:url('fonts/fontawesome-webfont.eot?#iefix&v=4.2') format('embedded-opentype'),
-		url('fonts/fontawesome-webfont.svg#fontawesomeregular?v=4.2') format('svg'),
-	    url('fonts/fontawesome-webfont.woff?v=4.2') format('woff'),
-	    url('fonts/fontawesome-webfont.ttf?v=4.2') format('truetype');
+	src:url('https://hadiyasquires.github.io/portfolio/wp-content/themes/salient/css/fonts/fontawesome-webfont.eot?v=4.2');
+	src:url('https://hadiyasquires.github.io/portfolio/wp-content/themes/salient/css/fonts/fontawesome-webfont.eot#iefix&v=4.2') format('embedded-opentype'),
+		url('https://hadiyasquires.github.io/portfolio/wp-content/themes/salient/css/fonts/fontawesome-webfont.svg#fontawesomeregular?v=4.2') format('svg'),
+	    url('https://hadiyasquires.github.io/portfolio/wp-content/themes/salient/css/fonts/fontawesome-webfont.woff?v=4.2') format('woff'),
+	    url('https://hadiyasquires.github.io/portfolio/wp-content/themes/salient/css/fonts/fontawesome-webfont.ttf?v=4.2') format('truetype');
 	font-weight:normal;
 	font-display: block;
 	font-style:normal;
